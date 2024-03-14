@@ -118,7 +118,7 @@ void * func(void *pVoid)
 
 int main(void)
 {
-    printf("Chain Smoker Problem Solve\n\n");
+    printf("Chain Smoker Problem Solve22\n\n");
     for (int i = 0; i < 3; ++i)
     {
         semWait[i]=7;
